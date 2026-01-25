@@ -2,7 +2,7 @@
 
 **Script em shell para analise de logs**
 
-Para instalar o Shellscript, instale usando o codigo a baixo:
+Para instalar o Shellscript, instale usando o comando a baixo:
 >`sudo chmod +x Analisedelog.sh`
 
 ![Imagem](Imagens/5166080809771928418.jpg)
