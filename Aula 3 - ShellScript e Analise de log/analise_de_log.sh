@@ -29,7 +29,7 @@ banner2()
 banner3()
 {
     echo "Analise de log - Script para auxiliar na analise de logs de servidores web"
-    echo "GitHub:https://github.com/jeffersonestacio46"
+    echo "GitHub:https://github.com/jeffersonestacio46/Analise-de-log-em-Shell"
 }
 
 if [ -z ${1} ]
