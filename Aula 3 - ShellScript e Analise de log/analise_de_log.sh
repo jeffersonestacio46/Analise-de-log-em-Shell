@@ -19,8 +19,7 @@ banner()
     echo "8 - Detectar possíveis ataques de força bruta a arquivos/pastas"
     echo "9 - Localizar user-agent utilizado por um IP suspeito"
     echo "10 - Listar os ips e verificar o numero de requisições"
-    echo "11 - Localizar acesso a um determinado arquivo sensível"
-    
+    echo "11 - Localizar acesso a um determinado arquivo sensível"    
 }
 banner2()
 {
