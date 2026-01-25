@@ -89,7 +89,7 @@ then
     echo "Localizar acesso a um determinado arquivo sensível"
     echo "Digite o nome do arquivo (ex: .env, .git, wp-config.php):"
     read arquivo
-    grep "$arquivo" access.log > arquivo_acessos.txt
+    grep "$arquivo" access.log
 else
     echo "Opção inválida. Use uma das opções abaixo:"
     banner
