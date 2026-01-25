@@ -11,6 +11,8 @@ Para instalar o Shellscript, instale usando o codigo a baixo:
 
 Depois basta executar o codigo com o comando a baixo:
 >`./Analisedelog.sh`
+E esse menu que vai aparecer, para verificar todas as analises disponiveis
+>
+![Imagem](Imagens/5166080809771928420.jpg)
 
-<img src="https://drive.google.com/file/d/1ZD5ZNNL8ICJXKNrF73wWkT7YvCZS_SNd/view?usp=sharing" alt="Texto Alternativo" width="300">
 
